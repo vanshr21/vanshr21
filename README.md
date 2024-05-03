@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vanshr21
-- 👀 I’m interested in learning 
-- 🌱 I’m currently learning python 
+- 👀 I’m interested in learning new tech
+- 🌱 I’m currently learning java
 
 
 <!---
