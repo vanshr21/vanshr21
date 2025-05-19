@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<footer>
+    <h1>Skills Unlocked | </h1>
+    <img src = "https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" alt = "java-logo" width = 10% height = 10% padding = "2" style = "border: 5px solid white;"/>
+</footer>
