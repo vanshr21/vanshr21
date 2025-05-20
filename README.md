@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <footer>
     <h1>Skills Unlocked | </h1>
     <img src = "https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" alt = "java-logo" width = 20% height = 20% padding = "2" style = "border: 5px solid white;"/>
-    <img src = "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt = "Python-Image"/>
+    <img src = "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt = "Python-Image" width = 20% height = 20%/>
     
     
         
