@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 -->
 <footer>
     <h1>Skills Unlocked | </h1>
-    <ul style = "list-style: none; padding: 0; margin: 0; display:flex;">
-        <li><img src = "https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" alt = "java-logo" width = 20% height = 20% padding = "2" style = "border: 5px solid white;"/></li>
-    </ul>
+    <img src = "https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" alt = "java-logo" width = 20% height = 20% padding = "2" style = "border: 5px solid white;"/>
+    
     
         
     
