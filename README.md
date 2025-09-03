@@ -53,7 +53,6 @@
 
 ---
 
-<!-- Snake animation -->
 <p align="center">
-  <img src="https://github.com/vanshr21/vanshr21/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://github.com/vanshr21/vanshr21/blob/output/snake.svg" alt="snake animation"/>
 </p>
