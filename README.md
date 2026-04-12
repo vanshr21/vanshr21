@@ -9,9 +9,8 @@
 ---
 
 ## About Me
-- I’m currently learning **DSA & Web Development**  
+- I’m currently learning **DSA & Fullstack in java**  
 - Interested in **Competitive Programming**  
-- Fun fact: I debug better with coffee  
 - Reach me at: **vanshr493@gmmail.com**
 
 
