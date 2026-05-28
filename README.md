@@ -4,8 +4,9 @@ Spring Boot | AWS | PostgreSQL | Java | C++ | Python | Docker | Data Structures 
 
 ## Contact
 ---
-GitHub: https://github.com/vanshr21 <br/>
-Email: vanshr493@gamil.com
+GitHub:&nbsp;&nbsp;&nbsp;https://github.com/vanshr21 <br/>
+Email:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;vanshr493@gamil.com<br/>
+LinkedIn:&nbsp;https://www.linkedin.com/in/vanshranar21/ 
 ## Summary
 
 Backend developer focused on building scalable applications and improving system design and problem-solving skills.
