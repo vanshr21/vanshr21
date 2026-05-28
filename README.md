@@ -1,16 +1,35 @@
-<h1 align="center">Hi, I'm Vansh</h1>
-<h3 align="center">A passionate programmer and developer</h3>
+# Vansh Rana
+Backend Developer
+Spring Boot | AWS | PostgreSQL | Java | C++ | Python | Docker | Data Structures & Algorithms
 
-<!-- Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=440&lines=Programmer+%7C+Developer;C%2B%2B+%7C+Java+%7C+Python;Always+learning+new+things">
-</p>
+## Contact
+---
+GitHub: https://github.com/vanshr21 <br/>
+Email: vanshr493@gamil.com
+## Summary
+
+Backend developer focused on building scalable applications and improving system design and problem-solving skills.
 
 ---
 
-## About Me
-- I’m currently learning **DSA & Fullstack in java**  
-- Interested in **Competitive Programming**  
-- Reach me at: **vanshr493@gmmail.com**
+## Skills
 
+- Backend Development (Spring Boot)
+- REST API Design
+- Database Management (PostgreSQL)
+- Cloud Basics (AWS)
+- Containerization (Docker)
+- Programming: Java, C++, Python
+- Data Structures and Algorithms
+
+---
+
+## Focus Areas
+
+- Backend system development
+- API design and optimization
+- Cloud and deployment fundamentals
+- Algorithmic problem solving
+
+---
 
