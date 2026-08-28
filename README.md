@@ -1,36 +1,25 @@
-# Vansh Rana
-Backend Developer
-Spring Boot | AWS | PostgreSQL | Java | C++ | Python | Docker | Data Structures & Algorithms
+# Hi, I'm Vansh 
 
-## Contact
----
-GitHub:&nbsp;&nbsp;&nbsp;https://github.com/vanshr21 <br/>
-Email:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;vanshr493@gamil.com<br/>
-LinkedIn:&nbsp;https://www.linkedin.com/in/vanshranar21/ 
-## Summary
+Computer Science Engineering student |  Backend & Software Development
 
-Backend developer focused on building scalable applications and improving system design and problem-solving skills.
+I enjoy building backend applications, solving DSA problems, and learning how systems work under the hood.
 
----
+###  Tech Stack
 
-## Skills
+**Languages:** C++, Java, Python <br/>
+**Backend:** Java Servlets, JDBC, Spring Boot, AWS<br/>
+**Database:** MySQL, PostgreSQL<br/>
+**Tools:** Git, GitHub, Maven, Docker<br/>
 
-- Backend Development (Spring Boot)
-- REST API Design
-- Database Management (PostgreSQL)
-- Cloud Basics (AWS)
-- Containerization (Docker)
-- Programming: Java, C++, Python
-- Data Structures and Algorithms
+### Currently Learning
 
----
+* Data Structures & Algorithms
+* Java Backend Development
+* Spring Boot & REST APIs
+* Cloud & DevOps fundamentals
 
-## Focus Areas
+### 🔗 Connect With Me
 
-- Backend system development
-- API design and optimization
-- Cloud and deployment fundamentals
-- Algorithmic problem solving
-
----
-
+* **GitHub:** https://github.com/vanshr21
+* **LinkedIn:** https://www.linkedin.com/in/vanshranar21/
+* **Email:** [vanshr493@gamil.com](mailto:vanshr493@gamil.com)
